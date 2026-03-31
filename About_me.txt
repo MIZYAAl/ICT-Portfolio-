@@ -1,0 +1,5 @@
+I’m a Software Engineering student at MAJU with a strong interest in frontend development.
+I enjoy building clean, responsive, and user-friendly web interfaces.
+Skilled in HTML, CSS, JavaScript, and currently improving my React and Tailwind skills.
+I’m always learning new technologies and working on projects to grow my experience.
+My goal is to become a professional developer and create impactful digital solutions.
